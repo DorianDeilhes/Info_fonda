@@ -1,5 +1,7 @@
 # Calculator Project
 
+## INTRO
+
 A simple calculator built with PLY (Python Lex-Yacc) that supports arithmetic expressions with variables and assignments.
 
 ## Features
@@ -36,8 +38,6 @@ calc > 2 + 3
 5.0
 calc > x <- 10
 10.0
-calc > x * 2.5
-25.0
 calc > (x + 5) / 3
 5.0
 ```
